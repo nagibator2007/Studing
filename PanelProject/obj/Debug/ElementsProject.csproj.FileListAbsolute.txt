@@ -1,0 +1,9 @@
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\ElementsProject.csproj.AssemblyReference.cache
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\MainWindow.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\View\Pages\TaskFirstPage.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\View\Pages\TaskSecondPage.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\App.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.cache
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.lref
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.exe
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.pdb

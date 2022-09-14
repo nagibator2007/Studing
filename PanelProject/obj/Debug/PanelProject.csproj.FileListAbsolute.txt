@@ -1,0 +1,163 @@
+C:\Users\admin\source\repos\PanelProject\PanelProject\bin\Debug\PanelProject.exe.config
+C:\Users\admin\source\repos\PanelProject\PanelProject\bin\Debug\PanelProject.exe
+C:\Users\admin\source\repos\PanelProject\PanelProject\bin\Debug\PanelProject.pdb
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\MainWindow.g.cs
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\App.g.cs
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.cache
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.lref
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\MainWindow.baml
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.g.resources
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.Properties.Resources.resources
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.exe
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\PanelProject.pdb
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\View\Pages\TaskFirstPage.g.cs
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\View\Pages\TaskFirstPage.baml
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\View\Pages\TaskSecondPage.g.cs
+C:\Users\admin\source\repos\PanelProject\PanelProject\obj\Debug\View\Pages\TaskSecondPage.baml
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\MainWindow.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\View\Pages\TaskFirstPage.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\View\Pages\TaskSecondPage.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\App.g.cs
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.cache
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.lref
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.exe
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.pdb
+D:\Загрузки\PanelProject\PanelProject\bin\Debug\PanelProject.exe.config
+D:\Загрузки\PanelProject\PanelProject\bin\Debug\PanelProject.exe
+D:\Загрузки\PanelProject\PanelProject\bin\Debug\PanelProject.pdb
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\MainWindow.baml
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\View\Pages\TaskFirstPage.baml
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\View\Pages\TaskSecondPage.baml
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.g.resources
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.Properties.Resources.resources
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.GenerateResource.cache
+D:\Загрузки\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.CoreCompileInputs.cache
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\MainWindow.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ButtonPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\CalendarAndDatePickerPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\CheckBoxPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ComboBoxPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ImagePage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ListBoxPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\RadioButtonPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\SliderPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\TextAndPasswordPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\TextBlockPage.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\App.g.cs
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.cache
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.lref
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\PanelProject.exe.config
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\PanelProject.exe
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\PanelProject.pdb
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\EntityFramework.dll
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\EntityFramework.xml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\ru\EntityFramework.resources.dll
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\MainWindow.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ButtonPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\CalendarAndDatePickerPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\CheckBoxPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ComboBoxPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ImagePage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\ListBoxPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\RadioButtonPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\SliderPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\TextAndPasswordPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\View\Pages\TextBlockPage.baml
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.g.resources
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.Properties.Resources.resources
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.GenerateResource.cache
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.CoreCompileInputs.cache
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.exe
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.pdb
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.AssemblyReference.cache
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+E:\ANN\ПРОГРАММНЫЕ РЕШЕНИЯ ДЛЯ БИЗНЕСА\ОБУЧЕНИЕ АКАДЕМИЯ WS КАЗАНЬ\Desktop\ЭЛЕМЕНТЫ УПРАВЛЕНИЯ\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.CopyComplete
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\PanelProject.exe.config
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\PanelProject.exe
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\PanelProject.pdb
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\EntityFramework.dll
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\EntityFramework.xml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.csprojAssemblyReference.cache
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\MainWindow.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ButtonPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\CalendarAndDatePickerPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\CheckBoxPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ComboBoxPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ImagePage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ListBoxPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\RadioButtonPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\SliderPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\TextAndPasswordPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\TextBlockPage.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\App.g.cs
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.cache
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject_MarkupCompile.lref
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\MainWindow.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ButtonPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\CalendarAndDatePickerPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\CheckBoxPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ComboBoxPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ImagePage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\ListBoxPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\RadioButtonPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\SliderPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\TextAndPasswordPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\View\Pages\TextBlockPage.baml
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.g.resources
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.Properties.Resources.resources
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.GenerateResource.cache
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.csproj.CopyComplete
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.exe
+C:\Users\311-14(student)\Desktop\PanelProject\PanelProject\obj\Debug\PanelProject.pdb
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\PanelProject.exe.config
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\PanelProject.exe
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\PanelProject.pdb
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\user\Desktop\School\PanelProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ButtonPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\CalendarAndDatePickerPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\CheckBoxPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ComboBoxPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ImagePage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ListBoxPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\RadioButtonPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\SliderPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\TextAndPasswordPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\TextBlockPage.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\App.g.cs
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject_MarkupCompile.cache
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject_MarkupCompile.lref
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ButtonPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\CalendarAndDatePickerPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\CheckBoxPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ComboBoxPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ImagePage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\ListBoxPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\RadioButtonPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\SliderPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\TextAndPasswordPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\View\Pages\TextBlockPage.baml
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.g.resources
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.Properties.Resources.resources
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.csproj.CopyComplete
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.exe
+C:\Users\user\Desktop\School\PanelProject\obj\Debug\PanelProject.pdb
