@@ -25,7 +25,15 @@
             <StackPanel x:Name="XamlStackPanel" />
         </Border>
         <Border BorderThickness="2" BorderBrush="LightGray" Grid.Row="1" Grid.Column="1" >
-            <StackPanel x:Name="ProgrammStackPanel" />
+            <StackPanel>
+                <StackPanel x:Name="ProgrammStackPanel" />
+                <ListBox SelectedIndex="1">
+                    <ListBoxItem Content="Red"/>
+                    <ListBoxItem Content="Green"/>
+                    <ListBoxItem Content="Blue"/>
+                </ListBox>
+                
+            </StackPanel>
         </Border>
         <Border BorderThickness="2" BorderBrush="LightGray" Grid.Row="1" Grid.Column="2" >
             <StackPanel x:Name="DataBaseXamlStackPanel" />
